@@ -1,1 +1,5 @@
+Binary Gaps
 https://app.codility.com/demo/results/training6TD397-MCY/
+
+Cyclic Rotation
+https://app.codility.com/demo/results/trainingHEU5Z6-SVM/
