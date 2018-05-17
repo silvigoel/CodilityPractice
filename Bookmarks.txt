@@ -6,3 +6,6 @@ https://app.codility.com/demo/results/trainingHEU5Z6-SVM/
 
 OddOccurencesInArray
 https://app.codility.com/demo/results/trainingJQHZ3N-QAF/
+
+Frog Jump
+https://app.codility.com/demo/results/trainingU4FUBM-S5B/
