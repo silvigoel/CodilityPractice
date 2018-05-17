@@ -12,3 +12,6 @@ https://app.codility.com/demo/results/trainingU4FUBM-S5B/
 
 Missing Element from Permutation
 https://app.codility.com/demo/results/training9QSWDU-C6B/
+
+Tape Equilibrium
+https://app.codility.com/demo/results/trainingZKEJXX-7B7/
